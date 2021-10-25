@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1039690226243",
+    "project_id": "roll-dice-demo-7975a",
+    "storage_bucket": "roll-dice-demo-7975a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039690226243:android:b0afb408d2f21d7eff12f6",
+        "android_client_info": {
+          "package_name": "com.rollAndDice.roll_dice_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039690226243-nfht8rs8onc4nl9rjbdf9052oujq81r8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPGkiLQSAEEQZHHCYIjN_aigKpTtc8c7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039690226243-nfht8rs8onc4nl9rjbdf9052oujq81r8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
